@@ -1,0 +1,25 @@
+{
+  "id": 123,
+  "Name": "wsrsw",
+  "Email": "wsrsw@example.com",
+  "data": [
+    {
+      "word":"うら", 
+      "chineseword":"裏",
+      "example": "",
+      "desc": "裡面背部"
+    },
+    {
+      "word":"いがい", 
+      "chineseword":"以外",
+      "example": "",
+      "desc": "以外;除外"
+    },
+    {
+      "word":"うち", 
+      "chineseword":"内",
+      "example": "",
+      "desc": "內部"
+    }
+  ]
+}
