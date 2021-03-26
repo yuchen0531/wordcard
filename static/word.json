@@ -20,6 +20,198 @@
       "chineseword":"内",
       "example": "",
       "desc": "內部"
+    },
+    {
+      "word":"てまえ", 
+      "chineseword":"手前",
+      "example": "",
+      "desc": "眼前;"
+    },
+    {
+      "word":"てもく", 
+      "chineseword":"手元",
+      "example": "",
+      "desc": "手頭上身邊"
+    },
+    {
+      "word":"あく", 
+      "chineseword":"空く",
+      "example": "",
+      "desc": "空隙間隙"
+    },
+    {
+      "word":"すみ", 
+      "chineseword":"隅",
+      "example": "",
+      "desc": "內部"
+    },
+    {
+      "word":"おもて", 
+      "chineseword":"表",
+      "example": "",
+      "desc": "內部"
+    },
+    {
+      "word":"どっち", 
+      "chineseword":"",
+      "example": "",
+      "desc": "內部"
+    },
+    {
+      "word":"こっち", 
+      "chineseword":"",
+      "example": "",
+      "desc": "內部"
+    },
+    {
+      "word":"ほう", 
+      "chineseword":"方",
+      "example": "",
+      "desc": "內部"
+    },
+    {
+      "word":"まんあか", 
+      "chineseword":"真ん中",
+      "example": "",
+      "desc": "正中;正當中"
+    },
+    {
+      "word":"あいだ", 
+      "chineseword":"間",
+      "example": "",
+      "desc": "期間；中間"
+    },
+    {
+      "word":"まわり", 
+      "chineseword":"周り",
+      "example": "",
+      "desc": "周圍;附近"
+    },
+    {
+      "word":"とおく", 
+      "chineseword":"遠く",
+      "example": "",
+      "desc": "遠方；遠處"
+    },
+    {
+      "word":"かいがん", 
+      "chineseword":"海岸",
+      "example": "",
+      "desc": "遠方；遠處"
+    },
+    {
+      "word":"さか", 
+      "chineseword":"坂",
+      "example": "",
+      "desc": "遠方；遠處"
+    },
+    {
+      "word":"こくない", 
+      "chineseword":"国内",
+      "example": "",
+      "desc": "遠方；遠處"
+    },
+    {
+      "word":"アフリカ", 
+      "chineseword":"アフリカ",
+      "example": "",
+      "desc": "遠方；遠處"
+    },
+    {
+      "word":"こうがい", 
+      "chineseword":"郊外",
+      "example": "",
+      "desc": "遠方；遠處"
+    },
+    {
+      "word":"しゃかい", 
+      "chineseword":"社会",
+      "example": "",
+      "desc": "遠方；遠處"
+    },
+    {
+      "word":"アメリカ", 
+      "chineseword":"アメリカ",
+      "example": "",
+      "desc": "美國"
+    },
+    {
+      "word":"いなか", 
+      "chineseword":"田舎",
+      "example": "",
+      "desc": "鄉村;鄉下"
+    },
+    {
+      "word":"ちり", 
+      "chineseword":"地理",
+      "example": "",
+      "desc": "遠方；遠處"
+    },
+    {
+      "word":"アジア", 
+      "chineseword":"アジア",
+      "example": "",
+      "desc": "亞洲"
+    },
+    {
+      "word":"し", 
+      "chineseword":"市",
+      "example": "",
+      "desc": "遠方；遠處"
+    },
+    {
+      "word":"けん", 
+      "chineseword":"県",
+      "example": "",
+      "desc": "遠方；遠處"
+    },
+    {
+      "word":"みずうみ", 
+      "chineseword":"湖",
+      "example": "",
+      "desc": "遠方；遠處"
+    },
+    {
+      "word":"むら", 
+      "chineseword":"村",
+      "example": "",
+      "desc": "遠方；遠處"
+    },
+    {
+      "word":"しま", 
+      "chineseword":"島",
+      "example": "",
+      "desc": "遠方；遠處"
+    },
+    {
+      "word":"まち", 
+      "chineseword":"町",
+      "example": "",
+      "desc": "遠方；遠處"
+    },
+    {
+      "word":"せいよう", 
+      "chineseword":"西洋",
+      "example": "",
+      "desc": "遠方；遠處"
+    },
+    {
+      "word":"", 
+      "chineseword":"遠く",
+      "example": "",
+      "desc": "遠方；遠處"
+    },
+    {
+      "word":"", 
+      "chineseword":"遠く",
+      "example": "",
+      "desc": "遠方；遠處"
+    },
+    {
+      "word":"", 
+      "chineseword":"遠く",
+      "example": "",
+      "desc": "遠方；遠處"
     }
   ]
 }
