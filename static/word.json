@@ -16,7 +16,8 @@
       "chineseword":"以外",
       "example": "",
       "desc": "以外;除外",
-      "type": "location"
+      "type": "location",
+      "audio": ""
     },
     {
       "word":"うち", 
@@ -250,284 +251,284 @@
       "type": "time"
     },
     {
-      "word":"このあいだ",
-      "chineseword":"この間",
-      "example": "",
-      "desc": "最近;前幾天",
-      "type": "time"
+        "word":"このあいだ",
+        "chineseword":"この間",
+        "example": "",
+        "desc": "最近;前幾天",
+        "type": "time"
     },
     {
-      "word":"さいきん",
-      "chineseword":"最近",
-      "example": "",
-      "desc": "最近",
-      "type": "time"
+        "word":"さいきん",
+        "chineseword":"最近",
+        "example": "",
+        "desc": "最近",
+        "type": "time"
     },
     {
-      "word":"さいご",
-      "chineseword":"最後",
-      "example": "",
-      "desc": "最後",
-      "type": "time"
+        "word":"さいご",
+        "chineseword":"最後",
+        "example": "",
+        "desc": "最後",
+        "type": "time"
     },
     {
-      "word":"さいしょ",
-      "chineseword":"最初",
-      "example": "",
-      "desc": "最初;最先",
-      "type": "time"
+        "word":"さいしょ",
+        "chineseword":"最初",
+        "example": "",
+        "desc": "最初;最先",
+        "type": "time"
     },
     {
-      "word":"むかし",
-      "chineseword":"昔",
-      "example": "",
-      "desc": "以前",
-      "type": "time"
+        "word":"むかし",
+        "chineseword":"昔",
+        "example": "",
+        "desc": "以前",
+        "type": "time"
     },
     {
-      "word":"ただいま",
-      "chineseword":"只今唯今",
-      "example": "",
-      "desc": "現在;馬上;我回來了",
-      "type": "time"
+        "word":"ただいま",
+        "chineseword":"只今唯今",
+        "example": "",
+        "desc": "現在;馬上;我回來了",
+        "type": "time"
     },
     {
-      "word":"こんや",
-      "chineseword":"今夜",
-      "example": "",
-      "desc": "今晚",
-      "type": "time"
+        "word":"こんや",
+        "chineseword":"今夜",
+        "example": "",
+        "desc": "今晚",
+        "type": "time"
     },
     {
-      "word":"あす",
-      "chineseword":"明日",
-      "example": "",
-      "desc": "明天",
-      "type": "time"
+        "word":"あす",
+        "chineseword":"明日",
+        "example": "",
+        "desc": "明天",
+        "type": "time"
     },
     {
-      "word":"こんど",
-      "chineseword":"今度",
-      "example": "",
-      "desc": "這次；下次",
-      "type": "time"
+        "word":"こんど",
+        "chineseword":"今度",
+        "example": "",
+        "desc": "這次；下次",
+        "type": "time"
     },
     {
-      "word":"さらいしゃう",
-      "chineseword":"再来週",
-      "example": "",
-      "desc": "下下星期",
-      "type": "time"
+        "word":"さらいしゃう",
+        "chineseword":"再来週",
+        "example": "",
+        "desc": "下下星期",
+        "type": "time"
     },
     {
-      "word":"さらいげつ",
-      "chineseword":"再来月",
-      "example": "",
-      "desc": "下下個月",
-      "type": "time"
+        "word":"さらいげつ",
+        "chineseword":"再来月",
+        "example": "",
+        "desc": "下下個月",
+        "type": "time"
     },
     {
-      "word":"しょうらい",
-      "chineseword":"将来",
-      "example": "",
-      "desc": "將來",
-      "type": "time"
+        "word":"しょうらい",
+        "chineseword":"将来",
+        "example": "",
+        "desc": "將來",
+        "type": "time"
     },
     {
-      "word":"とき",
-      "chineseword":"時",
-      "example": "",
-      "desc": "...時;時候",
-      "type": "time"
+        "word":"とき",
+        "chineseword":"時",
+        "example": "",
+        "desc": "...時;時候",
+        "type": "time"
     },
     {
-      "word":"ひ",
-      "chineseword":"日",
-      "example": "",
-      "desc": "天;日子",
-      "type": "time"
+        "word":"ひ",
+        "chineseword":"日",
+        "example": "",
+        "desc": "天;日子",
+        "type": "time"
     },
     {
-      "word":"とし",
-      "chineseword":"年",
-      "example": "",
-      "desc": "年齡;年",
-      "type": "time"
+        "word":"とし",
+        "chineseword":"年",
+        "example": "",
+        "desc": "年齡;年",
+        "type": "time"
     },
     {
-      "word":"はじめる",
-      "chineseword":"始める",
-      "example": "",
-      "desc": "開始;開創",
-      "type": "time"
+        "word":"はじめる",
+        "chineseword":"始める",
+        "example": "",
+        "desc": "開始;開創",
+        "type": "time"
     },
     {
-      "word":"おわり",
-      "chineseword":"終わり",
-      "example": "",
-      "desc": "結束;最後",
-      "type": "time"
+        "word":"おわり",
+        "chineseword":"終わり",
+        "example": "",
+        "desc": "結束;最後",
+        "type": "time"
     },
     {
-      "word":"いそぐ",
-      "chineseword":"急ぐ",
-      "example": "",
-      "desc": "快;急忙",
-      "type": "time"
+        "word":"いそぐ",
+        "chineseword":"急ぐ",
+        "example": "",
+        "desc": "快;急忙",
+        "type": "time"
     },
     {
-      "word":"すぐに",
-      "chineseword":"直ぐに",
-      "example": "",
-      "desc": "馬上",
-      "type": "time"
+        "word":"すぐに",
+        "chineseword":"直ぐに",
+        "example": "",
+        "desc": "馬上",
+        "type": "time"
     },
     {
-      "word":"まにあう",
-      "chineseword":"間に合う",
-      "example": "",
-      "desc": "來得及;夠用",
-      "type": "time"
+        "word":"まにあう",
+        "chineseword":"間に合う",
+        "example": "",
+        "desc": "來得及;夠用",
+        "type": "time"
     },
     {
-      "word":"あさねぼう",
-      "chineseword":"朝寝坊",
-      "example": "",
-      "desc": "賴床;愛賴床的人",
-      "type": "time"
+        "word":"あさねぼう",
+        "chineseword":"朝寝坊",
+        "example": "",
+        "desc": "賴床;愛賴床的人",
+        "type": "time"
     },
     {
-      "word":"おこす",
-      "chineseword":"起こす",
-      "example": "",
-      "desc": "叫醒;發生",
-      "type": "time"
+        "word":"おこす",
+        "chineseword":"起こす",
+        "example": "",
+        "desc": "叫醒;發生",
+        "type": "time"
     },
     {
-      "word":"ひるま",
-      "chineseword":"昼間",
-      "example": "",
-      "desc": "白天",
-      "type": "time"
+        "word":"ひるま",
+        "chineseword":"昼間",
+        "example": "",
+        "desc": "白天",
+        "type": "time"
     },
     {
-      "word":"くれる",
-      "chineseword":"暮れる",
-      "example": "",
-      "desc": "天黑;到了尾聲",
-      "type": "time"
+        "word":"くれる",
+        "chineseword":"暮れる",
+        "example": "",
+        "desc": "天黑;到了尾聲",
+        "type": "time"
     },
     {
-      "word":"このごろ",
-      "chineseword":"この頃",
-      "example": "",
-      "desc": "最近",
-      "type": "time"
+        "word":"このごろ",
+        "chineseword":"この頃",
+        "example": "",
+        "desc": "最近",
+        "type": "time"
     },
     {
-      "word":"じだい",
-      "chineseword":"時代",
-      "example": "",
-      "desc": "時代;潮流",
-      "type": "time"
+        "word":"じだい",
+        "chineseword":"時代",
+        "example": "",
+        "desc": "時代;潮流",
+        "type": "time"
     },
     {
-      "word":"むすこさん",
-      "chineseword":"息子さん",
-      "example": "",
-      "desc": "(別人的)...的兒子;您兒子",
-      "type": "title"
+        "word":"むすこさん",
+        "chineseword":"息子さん",
+        "example": "",
+        "desc": "",
+        "type": "title"
     },
     {
-      "word":"むすめさん",
-      "chineseword":"娘さん",
-      "example": "",
-      "desc": "(別人的)...的女兒;您女兒",
-      "type": "title"
+        "word":"むすめさん",
+        "chineseword":"娘さん",
+        "example": "",
+        "desc": "",
+        "type": "title"
     },
     {
-      "word":"こうこうせい",
-      "chineseword":"高校生",
-      "example": "",
-      "desc": "高中生",
-      "type": "title"
+        "word":"こうこうせい",
+        "chineseword":"高校生",
+        "example": "",
+        "desc": "",
+        "type": "title"
     },
     {
-      "word":"だいがくせい",
-      "chineseword":"大学生",
-      "example": "",
-      "desc": "大學生",
-      "type": "title"
+        "word":"だいがくせい",
+        "chineseword":"大学生",
+        "example": "",
+        "desc": "",
+        "type": "title"
     },
     {
-      "word":"きみ",
-      "chineseword":"君",
-      "example": "",
-      "desc": "你",
-      "type": "title"
+        "word":"きみ",
+        "chineseword":"君",
+        "example": "",
+        "desc": "",
+        "type": "title"
     },
     {
-      "word":"しゃちょう",
-      "chineseword":"社長",
-      "example": "",
-      "desc": "社長;總經理;董事長",
-      "type": "title"
+        "word":"しゃちょう",
+        "chineseword":"社長",
+        "example": "",
+        "desc": "",
+        "type": "title"
     },
     {
-      "word":"おかねもち",
-      "chineseword":"お金持ち",
-      "example": "",
-      "desc": "有錢人",
-      "type": "title"
+        "word":"おかねもち",
+        "chineseword":"お金持ち",
+        "example": "",
+        "desc": "",
+        "type": "title"
     },
     {
-      "word":"いん",
-      "chineseword":"いん",
-      "example": "",
-      "desc": "印章",
-      "type": "title"
+        "word":"いん",
+        "chineseword":"いん",
+        "example": "",
+        "desc": "印章",
+        "type": "title"
     },
     {
-      "word":"てんいん",
-      "chineseword":"店員",
-      "example": "",
-      "desc": "店員;銷售員",
-      "type": "title"
+        "word":"てんいん",
+        "chineseword":"店員",
+        "example": "",
+        "desc": "",
+        "type": "title"
     },
     {
-      "word":"せんぱい",
-      "chineseword":"先輩",
-      "example": "",
-      "desc": "前輩",
-      "type": "title"
+        "word":"せんぱい",
+        "chineseword":"先輩",
+        "example": "",
+        "desc": "",
+        "type": "title"
     },
     {
-      "word":"きゃく",
-      "chineseword":"客",
-      "example": "",
-      "desc": "客人;顧客",
-      "type": "title"
+        "word":"きゃく",
+        "chineseword":"客",
+        "example": "",
+        "desc": "",
+        "type": "title"
     },
     {
-      "word":"しみん",
-      "chineseword":"市民",
-      "example": "",
-      "desc": "市民;公民",
-      "type": "title"
+        "word":"しみん",
+        "chineseword":"市民",
+        "example": "",
+        "desc": "",
+        "type": "title"
     },
     {
-      "word":"おじょうさん",
-      "chineseword":"お嬢さん",
-      "example": "",
-      "desc": "小姐;姑娘",
-      "type": "title"
+        "word":"おじょうさん",
+        "chineseword":"お嬢さん",
+        "example": "",
+        "desc": "",
+        "type": "title"
     },
     {
-      "word":"おこさん",
-      "chineseword":"お子さん",
-      "example": "",
-      "desc": "孩子;令愛",
-      "type": "title"
+        "word":"おこさん",
+        "chineseword":"お子さん",
+        "example": "",
+        "desc": "",
+        "type": "title"
     }
   ]
 }
